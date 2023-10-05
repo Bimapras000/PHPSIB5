@@ -27,6 +27,19 @@
                             </a>
                             <div class="collapse" id="collapsePages" aria-labelledby="headingTwo" data-bs-parent="#sidenavAccordion">
                                 <nav class="sb-sidenav-menu-nested nav accordion" id="sidenavAccordionPages">
+                                    <a class="nav-link" href="index.php?url=about">
+                                        <div class="sb-nav-link-icon"></div>
+                                        About
+                                    </a>
+                                    <a class="nav-link" href="index.php?url=contact">
+                                        <div class="sb-nav-link-icon"></div>
+                                        Contact
+                                    </a>
+                                    <a class="nav-link" href="index.php?url=data">
+                                        <div class="sb-nav-link-icon"></div>
+                                        Data
+                                    </a>
+                                    
                                     <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#pagesCollapseAuth" aria-expanded="false" aria-controls="pagesCollapseAuth">
                                         Authentication
                                         <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
